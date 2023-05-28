@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 // Hari
-/* Converted Code of Pyth
 using namespace std;
 
 // Dictionary of possible customer inquiries and their respective replies
